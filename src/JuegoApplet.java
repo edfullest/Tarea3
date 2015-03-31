@@ -41,7 +41,7 @@ public class JuegoApplet extends Applet implements Runnable,
     private boolean bClic; // booleano para indicar un clic
     /**
      * diferencia de distancia en el eje X entre la coordenada de la canasta
-     * y la coordenada del clic del mouse
+     * y la coordenada del clic del mousessssssssssss
      */
     private int iDiferenciaY;
     /**
